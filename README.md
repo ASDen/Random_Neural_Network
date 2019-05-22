@@ -1,2 +1,2 @@
 # Random_Neural_Network
-An Implementation for the Random Neural Network
+Code supporting publication "ACCURATE, ENERGY-EFFICIENT CLASSIFICATION WITH SPIKING RANDOM NEURAL NETWORK"
